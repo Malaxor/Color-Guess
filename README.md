@@ -1,0 +1,1 @@
+A simple application built with HTML, CSS and JS.
